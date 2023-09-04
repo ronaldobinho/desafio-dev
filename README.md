@@ -21,5 +21,16 @@ curl --location 'http://localhost:8080/cnab/store?name=MARIA'
 
 
 
+# Docker Compose e MYSQL
+
+Deixei um PR evidenciando que cheguei perto de implementar, infelizmente container não estava encontrando o arquivo MANIFEST.MF e por sua vez não executava a aplicação.
+
+https://github.com/ByCodersTec/desafio-dev/pull/48
+
+
+Grato !
+
+
+
 
 
